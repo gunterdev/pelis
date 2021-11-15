@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Cartelera
+---
+Benvingut a la cartelera de cinesa!
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+| Cars | Vengadores | Superman | Spiderman | Fast&Furious |
+|------|------------|----------|-----------|--------------|
+|imagen1|imagen2|imagen3|imagen4|imagen5
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

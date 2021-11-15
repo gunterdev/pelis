@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Cinesa
+nav:
+    - Cars: 'cars.md'
+    - Superman: 'superman.md'
+    - Spiderman: 'spiderman.md'
+    - Los vengadores: 'vengadores.md'
+    - Fast&Furious: 'fastfurious.md'
+theme: readthedocs
