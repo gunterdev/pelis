@@ -4,7 +4,7 @@ Benvingut a la cartelera de cinesa!
 
 | Cars | Vengadores | Superman | Spiderman | Fast&Furious |
 |------|------------|----------|-----------|--------------|
-|imagen1|imagen2|imagen3|imagen4|imagen5
+|![CarsScreenshot](img/cars.jpg)|![VengadoresScreenshot](img/vengadores.jpg)|![SupermanScreenshot](img/superman.jpeg)|![SpidermanScreenshot](img/spiderman.jpg)|![FastFuriousScreenshot](img/fastfurious.png)
 
 
 
