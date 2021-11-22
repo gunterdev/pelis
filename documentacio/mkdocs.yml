@@ -1,9 +1,11 @@
 site_name: Cinesa
 nav:
+    - Inici: 'index.md'
     - Cars: 'cars.md'
     - Superman: 'superman.md'
     - Spiderman: 'spiderman.md'
     - Los vengadores: 'vengadores.md'
     - Fast&Furious: 'fastfurious.md'
+    - About: 'about.md'
 theme: readthedocs
-
+copyright: Copyright 2021 Eric Clemente Casals
